@@ -1,10 +1,3 @@
-/*
-	Nama    : Muhamad Fahrul Azimi
-	NPM     : 140810180027
-	Kelas   : A
-	Tanggal : 15 September 2020
-	Program : Shift Cipher
-*/
 #include<iostream> //header untuk menampilkan main
 #include<string.h>
 
